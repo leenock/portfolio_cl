@@ -10,11 +10,11 @@
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
 	<!-- Bootstrap core CSS -->
-	<link href="bootstrap.min.css" rel="stylesheet">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<!-- Material Design Bootstrap -->
-	<link href="mdb.min.css" rel="stylesheet">
+	<link href="css/mdb.min.css" rel="stylesheet">
 	<!-- Your custom styles (optional) -->
-	<link href="style.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
 
     <style>
         html,
@@ -477,12 +477,12 @@
     <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
 
     <!-- Bootstrap Popper JS  tooltips -->
-    <script type="text/javascript" src="popper.min.js"></script>
+    <script type="text/javascript" src="js/popper.min.js"></script>
 
     <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <!-- Material Design Bootstrap JavaScript -->
-    <script type="text/javascript" src="mdb.min.js"></script>
+    <script type="text/javascript" src="js/mdb.min.js"></script>
 
     <script>
         // initialize scrollspy
